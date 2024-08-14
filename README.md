@@ -1,0 +1,2 @@
+# .github
+General organization info
